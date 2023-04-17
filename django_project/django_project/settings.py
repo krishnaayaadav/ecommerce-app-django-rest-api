@@ -126,6 +126,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 MEDIA_URL = '/media/'
 
-PAYPAL_RECEIVER_EMAIL = 'krishnapb7431@gmail.com'
+PAYPAL_RECEIVER_EMAIL = 'your@gmail.com'
 PAYPAL_TEST = True # testing is true using sandbox
 
