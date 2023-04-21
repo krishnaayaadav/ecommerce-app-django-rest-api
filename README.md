@@ -1,9 +1,11 @@
 # Complete Ecommerce with RestFul API and JWT Authnetication paypal payment gateway integrated
 
+![ecom](https://user-images.githubusercontent.com/123397686/233510702-8c31b0ba-92d6-4062-a6dc-a302403c4bba.jpg)
 
-1. `git clonehttps://github.com/krishnadj87/ecommerce-app-django-r![ecom](https://user-images.githubusercontent.com/123397686/233510702-8c31b0ba-92d6-4062-a6dc-a302403c4bba.jpg)
-est-ap![payment](https://user-images.githubusercontent.com/123397686/233510763-ce779fb1-ef29-4f8a-b938-22164d8a78b5.jpg)
-i`.
+![payment](https://user-images.githubusercontent.com/123397686/233510763-ce779fb1-ef29-4f8a-b938-22164d8a78b5.jpg)
+
+1. `git clonehttps://github.com/krishnadj87/ecommerce-app-django-r
+
 
 
 [![Python Version](https://img.shields.io/badge/python-3.5-brightgreen.svg)](https://python.org)
